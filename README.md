@@ -30,3 +30,4 @@
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/>   |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-08-28 |
 |00|Lukas Kugler   | 12     | Lukas-LBS
+|00|Danqing Huang   | A12     | Danqing Huang |<https://github.com/JoanHuang0113/individual_project.git>   |<https://github.com/joanhuang0113/github-practice-ca09-2021>        |2021-09-27 |
